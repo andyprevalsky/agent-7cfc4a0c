@@ -1,0 +1,2 @@
+# agent-7cfc4a0c
+Auto-created workspace for Rose Labs agent
